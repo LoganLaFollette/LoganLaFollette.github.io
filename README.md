@@ -1,9 +1,5 @@
 # Hello! :smiley:
 
-My name is Logan LaFollette!
+Personal site
 
-I am a:   
-Software Engineer  
-Web/Systems Developer  
-ECM Consultant  
 
