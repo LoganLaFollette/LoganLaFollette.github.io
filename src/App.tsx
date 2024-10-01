@@ -1,6 +1,7 @@
 import './App.css';
 import { Player } from '@lottiefiles/react-lottie-player';
 import Lottie from './assets/logan_dev.lottie.json';
+import Draggable from './components/Draggable/Draggable';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           do. something. cool.
         </p>
       </header>
+      <Draggable />
     </div>
   );
 }
