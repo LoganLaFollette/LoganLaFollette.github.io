@@ -1,5 +1,3 @@
 # Hello! :smiley:
 
 Personal site
-
-
